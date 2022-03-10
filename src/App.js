@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mas infromacion sobre mi en Linkedin.
+          Mas infromacion sobre mi en Linkedin
         </a>
       </header>
     </div>
