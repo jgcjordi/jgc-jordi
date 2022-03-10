@@ -7,15 +7,18 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Web de Jordi Gomis Colomina
+        </p>
+        <p>
+          Actualmente trabajo de Software Engineer y tengo experiencias profesionales diversas.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.linkedin.com/in/jordi-gomis-colomina-0677838b"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Mas infromacion sobre mi en Linkedin.
         </a>
       </header>
     </div>
