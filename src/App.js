@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Web de Jordi Gomis Colomina
+          Web de Jordi Gomis Colomina 😁
         </p>
         <p>
           Actualmente trabajo de Software Engineer y tengo experiencias profesionales diversas.
